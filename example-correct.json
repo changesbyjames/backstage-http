@@ -1,0 +1,8 @@
+{
+  "variables": {
+    "text": "Hello world!"
+  },
+  "flags": {
+    "show": true
+  }
+}
